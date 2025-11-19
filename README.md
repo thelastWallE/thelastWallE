@@ -9,7 +9,7 @@
     https://github.com/thelastWallE/OctoprintKlipperPlugin/  
     Statistics for OctoKlipper: https://thelastwalle.github.io/plugins-dashboard/
 - IoT IndustryAutomation for our whole factory(light, switching remote access to machines, temperatures)  
-    For now with LOGO! and Node-Red on Raspberry 4B.  
+    For now with LOGO!8 and Node-Red on Ubuntu.  
     Later i want to add some ESP32 for using with different sensors that send  
     over LoRa to a receiver and get the data with MQTT into Node-Red.
 
